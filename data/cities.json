@@ -37,26 +37,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Daneborg",
-      "emoji": "🇬🇱",
-      "notes": "new test ",
-      "position": {
-        "lat": "78.61452537935531",
-        "lng": "-43.29841410264146"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Jyvaskyla",
-      "emoji": "🇫🇮",
-      "notes": "new test ",
-      "position": {
-        "lat": "62.23522183421637",
-        "lng": "25.748867787563626"
-      },
-      "id": 98443199
-    },
-    {
       "cityName": "Onda",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -91,30 +71,6 @@
         "lng": "-0.10969078578422888"
       },
       "id": 98443202
-    },
-    {
-      "cityName": "Jyvaskyla",
-      "country": "Finland",
-      "emoji": "🇫🇮",
-      "date": "2024-11-27T12:33:03.622Z",
-      "notes": "",
-      "position": {
-        "lat": "62.228174782320174",
-        "lng": "25.767318067560314"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Jyvaskyla",
-      "country": "Finland",
-      "emoji": "🇫🇮",
-      "date": "2024-11-27T12:33:03.622Z",
-      "notes": "tesr",
-      "position": {
-        "lat": "62.228174782320174",
-        "lng": "25.767318067560314"
-      },
-      "id": 98443204
     }
   ]
 }

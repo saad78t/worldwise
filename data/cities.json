@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -37,40 +25,16 @@
       "id": 98443197
     },
     {
-      "cityName": "Onda",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-11-27T11:51:51.753Z",
-      "notes": "",
-      "position": {
-        "lat": "39.97167829177592",
-        "lng": "-0.2306178404775472"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Borriol",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-11-27T11:52:20.587Z",
-      "notes": "tesr",
-      "position": {
-        "lat": "40.054877883603815",
-        "lng": "-0.09594907502363359"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Borriol",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-11-27T12:29:56.935Z",
+      "cityName": "Jyvaskyla",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2025-02-12T12:39:32.872Z",
       "notes": "test",
       "position": {
-        "lat": "40.03382428436992",
-        "lng": "-0.10969078578422888"
+        "lat": "62.25540574551873",
+        "lng": "25.86288305397951"
       },
-      "id": 98443202
+      "id": 98443203
     }
   ]
 }
